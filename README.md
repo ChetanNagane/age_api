@@ -9,7 +9,7 @@
 <li>Open localhost and provide your birthdate in following format </li>
 <li>{
 "day":1,
-"mon":1,
+"month":1,
 "year":2000
 }</li>
 </ol>
